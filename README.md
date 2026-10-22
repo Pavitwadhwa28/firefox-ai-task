@@ -1,6 +1,6 @@
 # Does Studying More Actually Help?
 
-Mozilla Firefox Club - AI/ML task. Author: [Your Name], [Reg. No.]
+Mozilla Firefox Club - AI/ML task. Author: Pavit Wadhwa, 26BCE2551
 
 **Question:** A school wants to tell students "more study time means better grades". Is that true, and what matters more?
 
