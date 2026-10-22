@@ -1,7 +1,7 @@
 # Memo: Does Studying More Actually Help?
 
 **To:** School leadership
-**From:** [Your Name], [Reg. No.]
+**From:** Pavit Wadhwa, 26BCE2551
 **Data:** UCI Student Performance, Math file (395 students, grades 0-20)
 
 ## What I found
